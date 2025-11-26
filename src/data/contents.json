@@ -1,0 +1,44 @@
+{
+    "compare": [
+        {
+            "id": 1,
+            "title": "مقایسه گوشی‌ها",
+            "description": "مقایسه دو گوشی محبوب بازار",
+            "link": "/compare/compare"
+        },
+        {
+            "id": 2,
+            "title": "مقایسه موتور سیکلت‌ها",
+            "description": "بررسی و مقایسه چند مدل موتور سیکلت",
+            "link": "/compare/compare"
+        }
+    ],
+    "intro": [
+        {
+            "id": 1,
+            "title": "معرفی بازی‌ها",
+            "description": "آشنایی با بازی‌های جذاب و محبوب",
+            "link": "/compare/intro"
+        },
+        {
+            "id": 2,
+            "title": "معرفی ماشین‌ها",
+            "description": "آشنایی با ماشین‌های پرطرفدار",
+            "link": "/compare/intro"
+        }
+    ],
+    "tutorials": [
+        {
+            "id": 1,
+            "title": "آموزش جاوااسکریپت",
+            "description": "درس‌های مقدماتی تا پیشرفته جاوااسکریپت",
+            "link": "/learn/javascript"
+        },
+        {
+            "id": 2,
+            "title": "آموزش Next.js",
+            "description": "یادگیری فریمورک Next.js از صفر تا صد",
+            "link": "/learn/nextjs"
+        }
+    ]
+}
