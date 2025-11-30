@@ -30,7 +30,7 @@ export default function ComparePage() {
                             <div className="relative w-1/2"><Image src="/images/laptop2.jpg" alt="لپ‌تاپ B" fill style={{ objectFit: "cover" }} /></div>
                         </div>
                         <div className="absolute bottom-0 left-0 right-0 bg-black/55 p-4">
-                            <h2 className="text-xl md:text-2xl font-bold">برای ساحل عشق اول و آخرم</h2>
+                            <h2 className="text-xl md:text-2xl font-bold">کارت اول</h2>
                             <p className="text-sm text-[#D1D5DB] mt-1"></p>
                         </div>
                     </Link>
@@ -106,16 +106,16 @@ export default function ComparePage() {
                     </div>
 
                     <div className="flex items-center gap-6">
-                        <Link href="https://youtube.com" target="_blank" className="group flex flex-col items-center">
+                        <Link href="https://youtube.com/@mahdijahan987?si=UPqwPhmqlWTq7Jam" target="_blank" className="group flex flex-col items-center">
                             <FaYoutube className="text-2xl md:text-3xl transition-colors group-hover:text-red-500" />
                             <span className="text-xs text-[#94A3B8] mt-2">آموزش ویدیویی</span>
                         </Link>
-                        <Link href="https://t.me" target="_blank" className="group flex flex-col items-center">
+                        <Link href="https://t.me/mahdijahanshahpor" target="_blank" className="group flex flex-col items-center">
                             <FaTelegramPlane className="text-2xl md:text-3xl transition-colors group-hover:text-blue-400" />
                             <span className="text-xs text-[#94A3B8] mt-2">تمرین‌ها و فایل‌ها</span>
                         </Link>
 
-                        <Link href="https://instagram.com" target="_blank" className="group flex flex-col items-center">
+                        <Link href="https://www.instagram.com/mahdijahan987?igsh=MW42ZDB6NHV1OG1rNA==" target="_blank" className="group flex flex-col items-center">
                             <FaInstagram className="text-2xl md:text-3xl transition-colors group-hover:text-pink-400" />
                             <span className="text-xs text-[#94A3B8] mt-2">نکات سریع</span>
                         </Link>
