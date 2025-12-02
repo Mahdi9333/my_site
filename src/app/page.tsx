@@ -63,7 +63,7 @@ export default function Home() {
                     </div>
 
                     <div className="flex items-center gap-6">
-                        <Link href="https://youtube.com/@mahdijahan987?si=UPqwPhmqlWTq7Jam" target="_blank" className="group flex flex-col items-center">
+                        <Link href="https://youtube.com/@mahdijahanshahpoor?si=1UmKsZFFhLveiC1J" target="_blank" className="group flex flex-col items-center">
                             <FaYoutube className="text-2xl md:text-3xl transition-colors group-hover:text-red-500" />
                             <span className="text-xs text-[#94A3B8] mt-2">آموزش ویدیویی</span>
                         </Link>
@@ -72,7 +72,7 @@ export default function Home() {
                             <span className="text-xs text-[#94A3B8] mt-2">تمرین‌ها و فایل‌ها</span>
                         </Link>
 
-                        <Link href="https://www.instagram.com/mahdijahan987?igsh=MW42ZDB6NHV1OG1rNA==" target="_blank" className="group flex flex-col items-center">
+                        <Link href="https://www.instagram.com/mahdijahanshahpoor?igsh=MW42ZDB6NHV1OG1rNA==" target="_blank" className="group flex flex-col items-center">
                             <FaInstagram className="text-2xl md:text-3xl transition-colors group-hover:text-pink-400" />
                             <span className="text-xs text-[#94A3B8] mt-2">نکات سریع</span>
                         </Link>
