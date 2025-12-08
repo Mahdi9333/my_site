@@ -6,7 +6,7 @@ import { FaInstagram, FaTelegramPlane, FaYoutube } from "react-icons/fa";
 
 export default function Intro1Page() {
     return (
-        <main className="min-h-screen bg-white text- [#0F172A] flex flex-col items-center justify-start px-6 py-12" >
+        <main className="min-h-screen bg-white text-black flex flex-col items-center justify-start px-6 py-12" >
             {/* عنوان و عکس اصلی */}
             <section className="w-full max-w-5xl mt-12 px-6 text-center">
                 <h1 className="text-3xl md:text-4xl lg:text-5xl font-extrabold mb-4">
@@ -23,7 +23,7 @@ export default function Intro1Page() {
             </section>
 
             {/* متن مقاله */}
-            <section className="max-w-4xl mb-12 text-[#D1D5DB] space-y-6">
+            <section className="max-w-4xl mb-12 text-black space-y-6">
                 <p>
                     <strong>معرفی کوتاه:</strong> MacBook Air M2 یکی از جدیدترین لپ‌تاپ‌های اپل است که با طراحی باریک، وزن سبک و عملکرد بسیار خوب، برای کاربران حرفه‌ای، دانشجویان و افراد خلاق ایده‌آل است. این لپ‌تاپ بدون فن کار می‌کند، بنابراین کاملاً بی‌صداست و عمر باتری طولانی تا 18 ساعت دارد.
                 </p>
