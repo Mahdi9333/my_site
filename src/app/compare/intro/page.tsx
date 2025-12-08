@@ -29,11 +29,11 @@ export default function IntroPage() {
                         className="relative rounded-2xl overflow-hidden shadow-2xl transform transition hover:scale-[1.02]"
                     >
                         <div className="w-full h-56 relative">
-                            <Image src="/images/laptop1.jpg" alt="لپ‌تاپ ۱" fill style={{ objectFit: "cover" }} />
+                            <Image src="/images/intro1.jpg" alt="لپ‌تاپ ۱" fill style={{ objectFit: "cover" }} />
                         </div>
                         <div className="absolute bottom-0 left-0 right-0 bg-black/55 p-4">
-                            <h2 className="text-xl md:text-2xl font-bold">لپ‌تاپ ۱</h2>
-                            <p className="text-sm text-[#D1D5DB] mt-1">معرفی لپ‌تاپ اول با مشخصات پایه و ویژگی‌ها.</p>
+                            <h2 className="text-xl md:text-2xl font-bold">MacBook Air M2</h2>
+                            <p className="text-sm text-[#D1D5DB] mt-1">معرفی لپ‌تاپ MacBook Air M2</p>
                         </div>
                     </Link>
 
